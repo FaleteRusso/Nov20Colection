@@ -1,2 +1,7 @@
-package com.corenetworks.presentacion;public class ProbarSet {
+package com.corenetworks.presentacion;
+
+import java.util.ArrayList;
+
+public class ProbarSet {
+
 }
